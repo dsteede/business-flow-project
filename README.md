@@ -1,5 +1,5 @@
 # Business Patterns in Puerto Rico (1998-2022)
-Ironhack Data Analysis Project by Danielle Steele and Vanessa Jimenez
+Ironhack Data Analysis Project by Danielle Steede and Vanessa Jimenez
 
 
 ## Overview
